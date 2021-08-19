@@ -1,4 +1,2 @@
-* list-element 1
-* list-element 2
-  * sub1
-  * sub2
+1. something
+2. something
